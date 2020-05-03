@@ -13,4 +13,4 @@
 * Visual Studio
 * Android Studio
 ## 역할
-* 각 플랫폼 별 통신
+* 각 플랫폼 별 통신 및 데이터 파싱
