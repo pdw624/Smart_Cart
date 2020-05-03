@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <TextView
+        android:id="@+id/textView34"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#6078ea"
+        android:fontFamily="@font/hanglrum"
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:text="ICD Shop"
+        android:textColor="#6078ea"
+        android:textSize="5dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="-16dp"></TextView>
+
+    <TextView
+        android:id="@+id/textView44"
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:background="#6078ea"
+        android:fontFamily="@font/hanglrum"
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:text="ICD Shop"
+        android:textColor="#ffffff"
+        android:textSize="40dp"
+        app:layout_constraintTop_toBottomOf="@+id/textView34"
+        tools:layout_editor_absoluteX="-16dp"></TextView>
+
+    <TextView
+        android:id="@+id/purchase_viewName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/interpark"
+        android:text="장바구니"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="36sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView44" />
+
+    <TextView
+        android:id="@+id/textView49"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="80dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/interpark"
+        android:text="상품명"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/purchase_viewName" />
+
+    <TextView
+        android:id="@+id/textView45"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="80dp"
+        android:layout_marginRight="80dp"
+        android:fontFamily="@font/interpark"
+        android:text="상품금액"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/purchase_viewName" />
+
+
+    <TextView
+        android:id="@+id/textView47"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="76dp"
+        android:layout_marginLeft="76dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/interpark"
+        android:text="총 액"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/btn_order"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scrollView2"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/btn_return"
+        android:layout_width="108dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="72dp"
+        android:layout_marginRight="72dp"
+        android:layout_marginBottom="124dp"
+        android:background="#A9A9F5"
+        android:fontFamily="@font/interpark"
+        android:text="반품하기"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_sales"
+        app:layout_constraintEnd_toEndOf="parent"></Button>
+
+    <Button
+        android:id="@+id/btn_order"
+        android:layout_width="108dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="76dp"
+        android:layout_marginLeft="76dp"
+        android:layout_marginBottom="124dp"
+        android:background="#A9A9F5"
+        android:fontFamily="@font/interpark"
+        android:text="구매하기"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_home"
+        app:layout_constraintStart_toStartOf="parent"></Button>
+
+    <Button
+        android:id="@+id/btn_home"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_gravity="bottom"
+        android:layout_weight="1"
+        android:background="#819FF7"
+        android:drawableStart="@drawable/ic_menu_white_24dp"
+        android:drawableLeft="@drawable/ic_menu_white_24dp"
+        android:padding="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/btn_userinfo"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btn_userinfo"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_gravity="bottom"
+        android:layout_weight="1"
+        android:background="#819FF7"
+        android:drawableStart="@drawable/ic_shop_white_24dp"
+        android:drawableLeft="@drawable/ic_shop_white_24dp"
+        android:padding="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/btn_stock" />
+
+    <Button
+        android:id="@+id/btn_stock"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_gravity="bottom"
+        android:layout_weight="1"
+        android:background="#819FF7"
+        android:drawableStart="@drawable/ic_stock_white_24dp"
+        android:drawableLeft="@drawable/ic_stock_white_24dp"
+        android:padding="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/btn_sales" />
+
+    <Button
+        android:id="@+id/btn_sales"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_gravity="bottom"
+        android:layout_weight="1"
+        android:background="#819FF7"
+        android:drawableStart="@drawable/ic_user_change_white_24dp"
+        android:drawableLeft="@drawable/ic_user_change_white_24dp"
+        android:padding="40dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="386dp"
+        android:layout_height="274dp"
+        android:layout_marginTop="55dp"
+        android:layout_marginBottom="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/purchase_viewName"
+        app:layout_constraintVertical_bias="0.0">
+
+        <TextView
+            android:id="@+id/pay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/interpark"
+            android:text=""
+            android:textColor="#000000"
+            android:textSize="20dp" />
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

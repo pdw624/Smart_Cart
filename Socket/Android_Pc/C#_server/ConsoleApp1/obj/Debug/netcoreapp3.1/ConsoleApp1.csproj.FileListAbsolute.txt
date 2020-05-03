@@ -1,0 +1,11 @@
+D:\PDW\IOT_project\IOT_project\D\C#_server\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\PDW\IOT_project\IOT_project\D\C#_server\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\PDW\IOT_project\IOT_project\D\C#_server\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\PDW\IOT_project\IOT_project\D\C#_server\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\PDW\IOT_project\IOT_project\D\C#_server\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\PDW\IOT_project\IOT_project\D\C#_server\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\PDW\IOT_project\IOT_project\D\C#_server\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\PDW\IOT_project\IOT_project\D\C#_server\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\PDW\IOT_project\IOT_project\D\C#_server\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\PDW\IOT_project\IOT_project\D\C#_server\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\PDW\IOT_project\IOT_project\D\C#_server\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

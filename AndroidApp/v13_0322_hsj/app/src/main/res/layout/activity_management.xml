@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    tools:context=".Management">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+
+        android:background="#6078ea"
+        android:fontFamily="@font/hanglrum"
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:text="ICD Shop"
+        android:textColor="#6078ea"
+        android:textSize="5dp"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:layout_marginLeft="0dp"
+
+        android:background="#6078ea"
+        android:fontFamily="@font/hanglrum"
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:text="ICD Shop"
+        android:textColor="#ffffff"
+        android:textSize="40dp"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+
+
+
+        android:gravity="center_horizontal"
+        android:padding="0dp"
+        android:text="회원 관리"
+        android:fontFamily="@font/interpark"
+        android:textColor="#000000"
+        android:textSize="35dp"></TextView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:stretchColumns="*">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="회원 이름"
+            android:fontFamily="@font/interpark"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="아이디"
+            android:fontFamily="@font/interpark"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:text="번호"
+            android:fontFamily="@font/interpark"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp">
+
+            <ListView
+                android:id="@+id/listView"
+                android:layout_width="match_parent"
+                android:layout_height="420dp"
+                android:background="@drawable/table_inside"
+                android:divider="#d1d1d1"
+                android:dividerHeight="1dp"></ListView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentBottom="true"
+        android:layout_weight="1"
+
+        android:gravity="center"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/btn_home"
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="0dp"
+            android:layout_weight="1"
+
+
+            android:background="#819FF7"
+            android:drawableStart="@drawable/ic_menu_white_24dp"
+            android:drawableLeft="@drawable/ic_menu_white_24dp"
+            android:padding="40dp"/>
+
+        <Button
+            android:id="@+id/btn_userinfo"
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="0dp"
+            android:layout_weight="1"
+
+
+            android:background="#819FF7"
+            android:drawableStart="@drawable/ic_people_white_24dp"
+            android:drawableLeft="@drawable/ic_people_white_24dp"
+
+            android:padding="40dp"
+            />
+
+        <Button
+            android:id="@+id/btn_stock"
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="0dp"
+            android:layout_weight="1"
+
+
+            android:background="#819FF7"
+            android:drawableStart="@drawable/ic_stock_white_24dp"
+            android:drawableLeft="@drawable/ic_stock_white_24dp"
+            android:padding="40dp"
+            />
+
+        <Button
+            android:id="@+id/btn_sales"
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="0dp"
+            android:layout_weight="1"
+
+
+            android:background="#819FF7"
+            android:drawableStart="@drawable/ic_money_white_24dp"
+            android:drawableLeft="@drawable/ic_money_white_24dp"
+            android:padding="40dp"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

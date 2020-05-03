@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    tools:context=".STManage">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0dp"
+
+            android:background="#6078ea"
+            android:fontFamily="@font/hanglrum"
+            android:gravity="center_horizontal"
+            android:padding="5dp"
+            android:text="ICD Shop"
+            android:textColor="#6078ea"
+            android:textSize="5dp"></TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="82dp"
+            android:layout_marginLeft="0dp"
+
+            android:background="#6078ea"
+            android:fontFamily="@font/hanglrum"
+            android:gravity="center_horizontal"
+            android:padding="5dp"
+            android:text="ICD Shop"
+            android:textColor="#ffffff"
+            android:textSize="40dp"></TextView>
+
+    <TextView
+        android:id="@+id/purchase_viewName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/interpark"
+        android:gravity="fill_horizontal"
+        android:text="재고 관리"
+        android:textColor="#000000"
+        android:textSize="36sp" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:stretchColumns="*">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:fontFamily="@font/interpark"
+            android:text="상품명"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:layout_marginLeft="50dp"
+            android:textSize="20dp"
+            android:fontFamily="@font/interpark"
+            android:text="가격"/>
+        <TextView
+            android:layout_marginLeft="50dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:fontFamily="@font/interpark"
+            android:text="수량"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp">
+
+        <ListView
+            android:id="@+id/listView2"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/table_inside"
+            android:divider="#d1d1d1"
+            android:dividerHeight="1dp"></ListView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentBottom="true"
+        android:layout_weight="1"
+
+        android:gravity="center"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/btn_home"
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="0dp"
+            android:layout_weight="1"
+
+
+            android:background="#819FF7"
+            android:drawableStart="@drawable/ic_menu_white_24dp"
+            android:drawableLeft="@drawable/ic_menu_white_24dp"
+            android:padding="40dp"/>
+
+        <Button
+            android:id="@+id/btn_userinfo"
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="0dp"
+            android:layout_weight="1"
+
+
+            android:background="#819FF7"
+            android:drawableStart="@drawable/ic_people_white_24dp"
+            android:drawableLeft="@drawable/ic_people_white_24dp"
+
+            android:padding="40dp"
+            />
+
+        <Button
+            android:id="@+id/btn_stock"
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="0dp"
+            android:layout_weight="1"
+
+
+            android:background="#819FF7"
+            android:drawableStart="@drawable/ic_stock_white_24dp"
+            android:drawableLeft="@drawable/ic_stock_white_24dp"
+            android:padding="40dp"
+            />
+
+        <Button
+            android:id="@+id/btn_sales"
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="0dp"
+            android:layout_weight="1"
+
+
+            android:background="#819FF7"
+            android:drawableStart="@drawable/ic_money_white_24dp"
+            android:drawableLeft="@drawable/ic_money_white_24dp"
+            android:padding="40dp"
+            />
+
+    </LinearLayout>
+</LinearLayout>

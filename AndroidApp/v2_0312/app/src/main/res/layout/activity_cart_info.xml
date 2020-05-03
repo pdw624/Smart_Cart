@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:background="#000000"
+        android:orientation="horizontal">
+        <ImageButton
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="45dp"
+            android:layout_height="44dp"
+            android:src="@drawable/cart_icon"></ImageButton>
+        <TextView
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="ICD Shop"
+            android:textColor="#FFFFFF"
+            android:textSize="35dp"></TextView>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:gravity="fill_horizontal"
+        android:text="카트선택"
+        android:textColor="#000000"
+        android:textSize="36sp" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_marginLeft="60dp"
+        app:srcCompat="@drawable/payment_icon" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_marginLeft="100dp"
+            app:srcCompat="@drawable/payment_icon" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/cart_btn1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:layout_marginLeft="65dp"
+            android:text="1번 카트" />
+
+
+        <Button
+            android:id="@+id/cart_btn2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:layout_marginLeft="100dp"
+            android:text="2번 카트" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_marginLeft="65dp"
+            app:srcCompat="@drawable/payment_icon" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_marginLeft="100dp"
+            app:srcCompat="@drawable/payment_icon" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/cart_btn3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:layout_marginLeft="65dp"
+            android:text="3번 카트" />
+
+
+        <Button
+            android:id="@+id/cart_btn4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:layout_marginLeft="100dp"
+            android:text="4번 카트" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
+

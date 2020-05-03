@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartCart</string>
+    <string name="order" />
+    <string name="admin" />
+</resources>

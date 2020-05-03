@@ -1,0 +1,22 @@
+D:\SCH\smartcart\bin\Debug\smartcart.exe.config
+D:\SCH\smartcart\bin\Debug\smartcart.exe
+D:\SCH\smartcart\bin\Debug\smartcart.pdb
+D:\SCH\smartcart\obj\Debug\smartcart.csprojAssemblyReference.cache
+D:\SCH\smartcart\obj\Debug\smartcart.Properties.Resources.resources
+D:\SCH\smartcart\obj\Debug\smartcart.csproj.GenerateResource.cache
+D:\SCH\smartcart\obj\Debug\smartcart.exe
+D:\SCH\smartcart\obj\Debug\smartcart.pdb
+D:\SCH\smartcart\obj\Debug\smartcart.Main.resources
+D:\SCH\smartcart\obj\Debug\smartcart.Login.resources
+D:\SCH\smartcart\obj\Debug\smartcart.LoginChecker.resources
+D:\HSJ\SmartCart\C# pcAPP\0324_1\smartcart\bin\Debug\smartcart.exe.config
+D:\HSJ\SmartCart\C# pcAPP\0324_1\smartcart\obj\Debug\smartcart.exe
+D:\HSJ\SmartCart\C# pcAPP\0324_1\smartcart\obj\Debug\smartcart.pdb
+D:\HSJ\SmartCart\C# pcAPP\0324_1\smartcart\bin\Debug\smartcart.exe
+D:\HSJ\SmartCart\C# pcAPP\0324_1\smartcart\bin\Debug\smartcart.pdb
+D:\HSJ\SmartCart\C# pcAPP\0324_1\smartcart\obj\Debug\smartcart.csprojResolveAssemblyReference.cache
+D:\HSJ\SmartCart\C# pcAPP\0324_1\smartcart\obj\Debug\smartcart.Login.resources
+D:\HSJ\SmartCart\C# pcAPP\0324_1\smartcart\obj\Debug\smartcart.LoginChecker.resources
+D:\HSJ\SmartCart\C# pcAPP\0324_1\smartcart\obj\Debug\smartcart.Main.resources
+D:\HSJ\SmartCart\C# pcAPP\0324_1\smartcart\obj\Debug\smartcart.Properties.Resources.resources
+D:\HSJ\SmartCart\C# pcAPP\0324_1\smartcart\obj\Debug\smartcart.csproj.GenerateResource.Cache

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="30dp"
+    android:gravity="center"
+    android:stretchColumns="*">
+    <TextView
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/product"
+        android:text="상품명"
+        android:textSize="20dp"></TextView>
+    <TextView
+        android:layout_marginLeft="55dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/price"
+        android:text="가격"
+        android:textSize="20dp"></TextView>
+    <TextView
+        android:layout_marginLeft="35dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buyday"
+        android:text="구매 날짜"
+        android:textSize="20dp"></TextView>
+
+</LinearLayout>

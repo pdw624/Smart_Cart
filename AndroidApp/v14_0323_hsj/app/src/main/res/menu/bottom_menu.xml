@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_menu"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu_black_24dp"
+        android:title="메뉴" />
+
+    <item
+        android:id="@+id/action_shop"
+        android:enabled="true"
+        android:icon="@drawable/ic_shop_black_24dp"
+        android:title="장바구니"/>
+    <item
+        android:id="@+id/action_stock"
+        android:enabled="true"
+        android:icon="@drawable/ic_stock_black_24dp"
+        android:title="주문이력"/>
+
+
+    <item
+        android:id="@+id/action_user"
+        android:enabled="true"
+        android:icon="@drawable/ic_user_change_black_24dp"
+        android:title="정보관리"/>
+
+</menu>

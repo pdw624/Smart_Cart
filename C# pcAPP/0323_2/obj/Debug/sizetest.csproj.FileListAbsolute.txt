@@ -1,0 +1,9 @@
+D:\SCH\sizetest\bin\Debug\sizetest.exe.config
+D:\SCH\sizetest\bin\Debug\sizetest.exe
+D:\SCH\sizetest\bin\Debug\sizetest.pdb
+D:\SCH\sizetest\obj\Debug\sizetest.csprojAssemblyReference.cache
+D:\SCH\sizetest\obj\Debug\sizetest.Form1.resources
+D:\SCH\sizetest\obj\Debug\sizetest.Properties.Resources.resources
+D:\SCH\sizetest\obj\Debug\sizetest.csproj.GenerateResource.cache
+D:\SCH\sizetest\obj\Debug\sizetest.exe
+D:\SCH\sizetest\obj\Debug\sizetest.pdb

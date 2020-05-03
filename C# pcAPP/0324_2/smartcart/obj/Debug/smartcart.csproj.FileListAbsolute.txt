@@ -1,0 +1,56 @@
+D:\SCH\smartcart\bin\Debug\smartcart.exe.config
+D:\SCH\smartcart\bin\Debug\smartcart.exe
+D:\SCH\smartcart\bin\Debug\smartcart.pdb
+D:\SCH\smartcart\obj\Debug\smartcart.csprojAssemblyReference.cache
+D:\SCH\smartcart\obj\Debug\smartcart.Properties.Resources.resources
+D:\SCH\smartcart\obj\Debug\smartcart.csproj.GenerateResource.cache
+D:\SCH\smartcart\obj\Debug\smartcart.exe
+D:\SCH\smartcart\obj\Debug\smartcart.pdb
+D:\SCH\smartcart\obj\Debug\smartcart.Main.resources
+D:\SCH\smartcart\obj\Debug\smartcart.Login.resources
+D:\SCH\smartcart\obj\Debug\smartcart.LoginChecker.resources
+D:\SCH\smartcart\bin\Debug\MySql.Data.dll
+D:\SCH\smartcart\bin\Debug\Google.Protobuf.dll
+D:\SCH\smartcart\bin\Debug\BouncyCastle.Crypto.dll
+D:\SCH\smartcart\bin\Debug\Ubiety.Dns.Core.dll
+D:\SCH\smartcart\bin\Debug\Renci.SshNet.dll
+D:\SCH\smartcart\bin\Debug\MySql.Data.xml
+D:\SCH\smartcart\obj\Debug\smartcart.csproj.CopyComplete
+<<<<<<< HEAD
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\smartcart.exe.config
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.exe
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.pdb
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\smartcart.exe
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\smartcart.pdb
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\MySql.Data.dll
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\Google.Protobuf.dll
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\BouncyCastle.Crypto.dll
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\Ubiety.Dns.Core.dll
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\Renci.SshNet.dll
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\MySql.Data.xml
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.csprojResolveAssemblyReference.cache
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.Login.resources
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.LoginChecker.resources
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.Main.resources
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.Properties.Resources.resources
+D:\HSJ\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.csproj.GenerateResource.Cache
+=======
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\smartcart.exe.config
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\smartcart.exe
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\smartcart.pdb
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\MySql.Data.dll
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\Google.Protobuf.dll
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\BouncyCastle.Crypto.dll
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\Ubiety.Dns.Core.dll
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\Renci.SshNet.dll
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\bin\Debug\MySql.Data.xml
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.csprojAssemblyReference.cache
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.Login.resources
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.LoginChecker.resources
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.Main.resources
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.Properties.Resources.resources
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.csproj.GenerateResource.cache
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.csproj.CopyComplete
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.exe
+D:\songchanho\SmartCart\C# pcAPP\0324_2\smartcart\obj\Debug\smartcart.pdb
+>>>>>>> be7fbc4e1aed8473cab12eaf0d8fabebdb20bd8d

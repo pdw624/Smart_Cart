@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:background="#000000"
+        android:orientation="horizontal">
+        <ImageButton
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="45dp"
+            android:layout_height="44dp"
+            android:src="@drawable/cart_icon"></ImageButton>
+        <TextView
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="ICD Shop"
+            android:textColor="#FFFFFF"
+            android:textSize="35dp"></TextView>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/btn_shoppingbascket"
+            android:layout_marginTop="30dp"
+            android:layout_width="145dp"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/payment_icon"></ImageButton>
+
+        <TextView
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="장바구니"
+            android:textColor="#000000"
+            android:textSize="25dp"></TextView
+            >
+        <ImageButton
+            android:id="@+id/btn_paymentlist"
+            android:layout_marginTop="10dp"
+            android:layout_width="135dp"
+            android:layout_height="135dp"
+            android:layout_gravity="center"
+            android:src="@drawable/payment_list_icon"></ImageButton>
+        <TextView
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="결제 내역"
+            android:textColor="#000000"
+            android:textSize="25dp"></TextView
+            >
+        <ImageButton
+            android:id="@+id/btn_userinfo"
+            android:layout_marginTop="10dp"
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:src="@drawable/user_modify_ico"></ImageButton>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="회원정보 수정"
+            android:textColor="#000000"
+            android:textSize="25dp"></TextView
+            >
+    </LinearLayout>
+
+</LinearLayout>
+

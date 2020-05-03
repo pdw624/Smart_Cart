@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context=".UserMenu">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+
+        android:background="#6078ea"
+        android:fontFamily="@font/hanglrum"
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:text="ICD Shop"
+        android:textColor="#6078ea"
+        android:textSize="5dp"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:layout_marginLeft="0dp"
+
+        android:background="#6078ea"
+        android:fontFamily="@font/hanglrum"
+        android:gravity="center_horizontal"
+        android:padding="5dp"
+        android:text="ICD Shop"
+        android:textColor="#ffffff"
+        android:textSize="40dp"></TextView>
+
+    <ImageView
+
+        android:layout_width="match_parent"
+        android:layout_height="126dp"
+        android:layout_marginTop="20dp"
+        android:background="#ffffff"
+        android:paddingTop="20dp"
+        android:src="@drawable/user" />
+
+    <TextView
+        android:id="@+id/idView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:gravity="center_horizontal"
+        android:text="OOO 님"
+        android:fontFamily="@font/interpark"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="36sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_cart_connection"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"
+                android:background="#ffffff"
+                android:padding="20dp"
+                android:text="카트 연결"
+                android:fontFamily="@font/interpark"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:drawableStart="@drawable/ic_bluetooth_black_24dp"
+                android:drawableLeft="@drawable/ic_bluetooth_black_24dp" />
+
+            <Button
+                android:id="@+id/btn_shopping_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"
+                android:background="#ffffff"
+                android:padding="20dp"
+                android:text="장바구니"
+                android:fontFamily="@font/interpark"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:drawableStart="@drawable/ic_shop_black_24dp"
+                android:drawableLeft="@drawable/ic_shop_black_24dp" />
+
+            <Button
+                android:id="@+id/btn_purchase_history"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"
+                android:background="#ffffff"
+                android:padding="20dp"
+                android:text="주문 이력"
+                android:fontFamily="@font/interpark"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:drawableStart="@drawable/ic_stock_black_24dp"
+                android:drawableLeft="@drawable/ic_stock_black_24dp"/>
+
+            <Button
+                android:id="@+id/btn_user_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"
+                android:background="#FFFFFF"
+                android:padding="20dp"
+                android:text="내 정보관리"
+                android:fontFamily="@font/interpark"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                android:drawableStart="@drawable/ic_user_change_black_24dp"
+                android:drawableLeft="@drawable/ic_user_change_black_24dp"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</LinearLayout>

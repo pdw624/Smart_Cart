@@ -1,0 +1,32 @@
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\bin\Debug\smartcartproject.exe.config
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\bin\Debug\smartcartproject.exe
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\bin\Debug\smartcartproject.pdb
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\obj\Debug\smartcartproject.csprojAssemblyReference.cache
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\obj\Debug\smartcartproject.Form1.resources
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\obj\Debug\smartcartproject.Properties.Resources.resources
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\obj\Debug\smartcartproject.csproj.GenerateResource.cache
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\obj\Debug\smartcartproject.exe
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\obj\Debug\smartcartproject.pdb
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\bin\Debug\MySql.Data.dll
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\bin\Debug\Google.Protobuf.dll
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\bin\Debug\Renci.SshNet.dll
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\bin\Debug\MySql.Data.xml
+C:\Users\SONG\source\repos\smartcartproject\smartcartproject\obj\Debug\smartcartproject.csproj.CopyComplete
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\bin\Debug\smartcartproject.exe.config
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\bin\Debug\smartcartproject.exe
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\bin\Debug\smartcartproject.pdb
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\bin\Debug\MySql.Data.dll
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\bin\Debug\Google.Protobuf.dll
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\bin\Debug\BouncyCastle.Crypto.dll
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\bin\Debug\Ubiety.Dns.Core.dll
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\bin\Debug\Renci.SshNet.dll
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\bin\Debug\MySql.Data.xml
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\obj\Debug\smartcartproject.csprojAssemblyReference.cache
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\obj\Debug\smartcartproject.Form1.resources
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\obj\Debug\smartcartproject.Properties.Resources.resources
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\obj\Debug\smartcartproject.csproj.GenerateResource.cache
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\obj\Debug\smartcartproject.csproj.CopyComplete
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\obj\Debug\smartcartproject.exe
+D:\songchanho\SmartCart\C# pcAPP\0321_1\smartcartproject\smartcartproject\obj\Debug\smartcartproject.pdb
